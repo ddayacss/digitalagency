@@ -1,2 +1,0 @@
-# digitalagency
-My awesome repository
